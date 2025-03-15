@@ -73,8 +73,8 @@ language-translator/
 
 ---
 
-## 📸 Screenshots
-👉 *Add screenshots here if available*  
+## 🌄 **Screenshot**  
+![Application Screenshot](./screenshot.png) 
 
 ---
 
